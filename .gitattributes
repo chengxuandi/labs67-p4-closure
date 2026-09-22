@@ -1,0 +1,2 @@
+# Preserve certificate and manifest bytes exactly on every platform.
+* -text

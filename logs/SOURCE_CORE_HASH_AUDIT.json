@@ -1,0 +1,6 @@
+{
+  "source_manifest": "original REOPEN hashes/FINAL_SHA256.json",
+  "checked_byte_identical_core_files": 61,
+  "mismatches": 0,
+  "note": "The privacy-clean public batch index and public-layout verification output are new derivative metadata and are not counted among the 61 source artifacts."
+}

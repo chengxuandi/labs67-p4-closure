@@ -1,0 +1,12 @@
+{
+  "command": [
+    "python",
+    "replay_all.py"
+  ],
+  "python": "3.12.10",
+  "os": "Windows-11-10.0.26200-SP0",
+  "exit_code": 0,
+  "runtime_seconds": 19.985000000015134,
+  "stdout": "HASHES: VERIFIED (63 files)\n{\"word\": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1], \"energy\": 241, \"correlations\": [0, 7, 0, -5, 0, -1, 0, -1, 0, 3, 0, -5, 0, -1, 0, 3, 0, -1, 0, 3, 0, -1, 0, -1, 0, -1, 0, 3, 0, -1, 0, 7, 0, 3, 0, -1, 0, -1, 0, -1, 0, 3, 0, 3, 0, -1, 0, -1, 0, 3, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1, 0, -1], \"P\": 26, \"Pprime\": 26, \"DC\": 9, \"alternating_DC\": -9, \"normalized_skew\": true}\nverify_sequence.py: PASS (0.156s)\nb5_pair0 PASS_NO 269 520 -90\nb5_pair1 PASS_NO 269 984 -32\nb6_pair0 PASS_NO 1609 728 509\nb6_pair1 PASS_NO 1609 682 719\nb7_pair0 PASS_NO 269 842 -76\nb7_pair1 PASS_NO 269 682 -30\nb11_pair0 PASS_NO 1609 740 467\nb11_pair1 PASS_NO 1609 586 510\nb13_pair0 PASS_NO 269 660 -70\nb16_pair0 PASS_NO 269 780 -63\nb16_pair1 PASS_NO 269 842 43\nb17_pair0 PASS_NO 269 588 38\nb17_pair1 PASS_NO 269 678 -34\nb19_pair0 PASS_NO 269 832 -115\nb19_pair1 PASS_NO 269 610 -102\nb28_pair0 PASS_NO 269 1130 10\nb28_pair1 PASS_NO 269 702 121\nb28_pair2 PASS_NO 269 698 -15\nb28_pair3 PASS_NO 269 672 -79\nb29_pair0 PASS_NO 269 852 54\nb29_pair1 PASS_NO 269 582 -53\nb29_pair2 PASS_NO 269 812 -71\nb29_pair3 PASS_NO 269 854 97\nb30_pair0 PASS_NO 269 714 29\nb30_pair1 PASS_NO 269 690 -28\nb32_pair0 PASS_NO 269 782 -106\nb32_pair1 PASS_NO 269 1342 11\nP4_CLOSED: 32/32 support orbits excluded; NOT a global LABS energy proof.\nverify_p4_closure.py: PASS (16.359s)\nmissing_representative REJECT duplicated/missing representative\nduplicate_representative REJECT duplicated/missing representative\nmissing_result REJECT incomplete result coverage\nduplicate_result REJECT incomplete result coverage\nwrong_input_binding REJECT wrong chain input binding\nunknown_as_proof REJECT not a NO certificate\ntruncated_chain REJECT incomplete exponent chain\n{\"status\": \"PASS\", \"mutations_rejected\": 7}\np4_closure_mutation_tests.py: PASS (3.031s)\nLABS N=67 P=4 CLOSURE: VERIFIED\nGLOBAL OPTIMALITY: NOT CLAIMED\n",
+  "stderr": ""
+}

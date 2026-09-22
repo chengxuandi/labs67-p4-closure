@@ -1,0 +1,137 @@
+[
+  {
+    "case_id": "b5_pair0",
+    "input": "certificates/cm_inputs/b5_pair0.json",
+    "certificate": "certificates/cm_outputs/b5_pair0.json"
+  },
+  {
+    "case_id": "b5_pair1",
+    "input": "certificates/cm_inputs/b5_pair1.json",
+    "certificate": "certificates/cm_outputs/b5_pair1.json"
+  },
+  {
+    "case_id": "b6_pair0",
+    "input": "certificates/cm_inputs/b6_pair0.json",
+    "certificate": "certificates/cm_outputs/b6_pair0.json"
+  },
+  {
+    "case_id": "b6_pair1",
+    "input": "certificates/cm_inputs/b6_pair1.json",
+    "certificate": "certificates/cm_outputs/b6_pair1.json"
+  },
+  {
+    "case_id": "b7_pair0",
+    "input": "certificates/cm_inputs/b7_pair0.json",
+    "certificate": "certificates/cm_outputs/b7_pair0.json"
+  },
+  {
+    "case_id": "b7_pair1",
+    "input": "certificates/cm_inputs/b7_pair1.json",
+    "certificate": "certificates/cm_outputs/b7_pair1.json"
+  },
+  {
+    "case_id": "b11_pair0",
+    "input": "certificates/cm_inputs/b11_pair0.json",
+    "certificate": "certificates/cm_outputs/b11_pair0.json"
+  },
+  {
+    "case_id": "b11_pair1",
+    "input": "certificates/cm_inputs/b11_pair1.json",
+    "certificate": "certificates/cm_outputs/b11_pair1.json"
+  },
+  {
+    "case_id": "b13_pair0",
+    "input": "certificates/cm_inputs/b13.json",
+    "certificate": "certificates/cm_outputs/b13_certificate.json"
+  },
+  {
+    "case_id": "b16_pair0",
+    "input": "certificates/cm_inputs/b16_pair0.json",
+    "certificate": "certificates/cm_outputs/b16_pair0.json"
+  },
+  {
+    "case_id": "b16_pair1",
+    "input": "certificates/cm_inputs/b16_pair1.json",
+    "certificate": "certificates/cm_outputs/b16_pair1.json"
+  },
+  {
+    "case_id": "b17_pair0",
+    "input": "certificates/cm_inputs/b17_pair0.json",
+    "certificate": "certificates/cm_outputs/b17_pair0.json"
+  },
+  {
+    "case_id": "b17_pair1",
+    "input": "certificates/cm_inputs/b17_pair1.json",
+    "certificate": "certificates/cm_outputs/b17_pair1.json"
+  },
+  {
+    "case_id": "b19_pair0",
+    "input": "certificates/cm_inputs/b19_pair0.json",
+    "certificate": "certificates/cm_outputs/b19_pair0.json"
+  },
+  {
+    "case_id": "b19_pair1",
+    "input": "certificates/cm_inputs/b19_pair1.json",
+    "certificate": "certificates/cm_outputs/b19_pair1.json"
+  },
+  {
+    "case_id": "b28_pair0",
+    "input": "certificates/cm_inputs/b28_pair0.json",
+    "certificate": "certificates/cm_outputs/b28_pair0.json"
+  },
+  {
+    "case_id": "b28_pair1",
+    "input": "certificates/cm_inputs/b28_pair1.json",
+    "certificate": "certificates/cm_outputs/b28_pair1.json"
+  },
+  {
+    "case_id": "b28_pair2",
+    "input": "certificates/cm_inputs/b28_pair2.json",
+    "certificate": "certificates/cm_outputs/b28_pair2.json"
+  },
+  {
+    "case_id": "b28_pair3",
+    "input": "certificates/cm_inputs/b28_pair3.json",
+    "certificate": "certificates/cm_outputs/b28_pair3.json"
+  },
+  {
+    "case_id": "b29_pair0",
+    "input": "certificates/cm_inputs/b29_pair0.json",
+    "certificate": "certificates/cm_outputs/b29_pair0.json"
+  },
+  {
+    "case_id": "b29_pair1",
+    "input": "certificates/cm_inputs/b29_pair1.json",
+    "certificate": "certificates/cm_outputs/b29_pair1.json"
+  },
+  {
+    "case_id": "b29_pair2",
+    "input": "certificates/cm_inputs/b29_pair2.json",
+    "certificate": "certificates/cm_outputs/b29_pair2.json"
+  },
+  {
+    "case_id": "b29_pair3",
+    "input": "certificates/cm_inputs/b29_pair3.json",
+    "certificate": "certificates/cm_outputs/b29_pair3.json"
+  },
+  {
+    "case_id": "b30_pair0",
+    "input": "certificates/cm_inputs/b30_pair0.json",
+    "certificate": "certificates/cm_outputs/b30_pair0.json"
+  },
+  {
+    "case_id": "b30_pair1",
+    "input": "certificates/cm_inputs/b30_pair1.json",
+    "certificate": "certificates/cm_outputs/b30_pair1.json"
+  },
+  {
+    "case_id": "b32_pair0",
+    "input": "certificates/cm_inputs/b32_pair0.json",
+    "certificate": "certificates/cm_outputs/b32_pair0.json"
+  },
+  {
+    "case_id": "b32_pair1",
+    "input": "certificates/cm_inputs/b32_pair1.json",
+    "certificate": "certificates/cm_outputs/b32_pair1.json"
+  }
+]

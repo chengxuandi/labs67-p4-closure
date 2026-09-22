@@ -1,0 +1,479 @@
+{
+  "templates": [
+    {
+      "prime": 269,
+      "topology": [
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          1,
+          6,
+          2,
+          [
+            6,
+            6
+          ]
+        ],
+        [
+          1,
+          6,
+          2,
+          [
+            6,
+            6
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "cases": [
+        "b5_pair0",
+        "b5_pair1",
+        "b7_pair0",
+        "b7_pair1",
+        "b13_pair0",
+        "b16_pair0",
+        "b16_pair1",
+        "b17_pair0",
+        "b17_pair1",
+        "b19_pair0",
+        "b19_pair1",
+        "b28_pair0",
+        "b28_pair1",
+        "b28_pair2",
+        "b28_pair3",
+        "b29_pair0",
+        "b29_pair1",
+        "b29_pair2",
+        "b29_pair3",
+        "b30_pair0",
+        "b30_pair1",
+        "b32_pair0",
+        "b32_pair1"
+      ]
+    },
+    {
+      "prime": 1609,
+      "topology": [
+        [
+          1,
+          6,
+          2,
+          [
+            6,
+            6
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          1,
+          6,
+          2,
+          [
+            6,
+            6
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          1,
+          6,
+          2,
+          [
+            6,
+            6
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          0,
+          3,
+          2,
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "cases": [
+        "b6_pair0",
+        "b6_pair1",
+        "b11_pair0",
+        "b11_pair1"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "b5_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 9943,
+      "bytes": 2045083,
+      "trace": 520,
+      "residue": -90,
+      "contradiction_margin": 541660
+    },
+    {
+      "case_id": "b5_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10035,
+      "bytes": 2114027,
+      "trace": 984,
+      "residue": -32,
+      "contradiction_margin": 66640
+    },
+    {
+      "case_id": "b6_pair0",
+      "prime": 1609,
+      "steps": 10,
+      "coefficient_max_bits": 10412,
+      "bytes": 2637939,
+      "trace": 728,
+      "residue": 509,
+      "contradiction_margin": 17356971
+    },
+    {
+      "case_id": "b6_pair1",
+      "prime": 1609,
+      "steps": 10,
+      "coefficient_max_bits": 10668,
+      "bytes": 2589404,
+      "trace": 682,
+      "residue": 719,
+      "contradiction_margin": 34635023
+    },
+    {
+      "case_id": "b7_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10173,
+      "bytes": 2112761,
+      "trace": 842,
+      "residue": -76,
+      "contradiction_margin": 385308
+    },
+    {
+      "case_id": "b7_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10015,
+      "bytes": 1999645,
+      "trace": 682,
+      "residue": -30,
+      "contradiction_margin": 58936
+    },
+    {
+      "case_id": "b11_pair0",
+      "prime": 1609,
+      "steps": 10,
+      "coefficient_max_bits": 26671,
+      "bytes": 4017722,
+      "trace": 740,
+      "residue": 467,
+      "contradiction_margin": 14610483
+    },
+    {
+      "case_id": "b11_pair1",
+      "prime": 1609,
+      "steps": 10,
+      "coefficient_max_bits": 10539,
+      "bytes": 2453346,
+      "trace": 586,
+      "residue": 510,
+      "contradiction_margin": 17425528
+    },
+    {
+      "case_id": "b13_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 9955,
+      "bytes": 2140246,
+      "trace": 660,
+      "residue": -70,
+      "contradiction_margin": 326980
+    },
+    {
+      "case_id": "b16_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 30861,
+      "bytes": 3855173,
+      "trace": 780,
+      "residue": -63,
+      "contradiction_margin": 264363
+    },
+    {
+      "case_id": "b16_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10092,
+      "bytes": 2012141,
+      "trace": 842,
+      "residue": 43,
+      "contradiction_margin": 122199
+    },
+    {
+      "case_id": "b17_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10293,
+      "bytes": 2108260,
+      "trace": 588,
+      "residue": 38,
+      "contradiction_margin": 95572
+    },
+    {
+      "case_id": "b17_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10132,
+      "bytes": 2031330,
+      "trace": 678,
+      "residue": -34,
+      "contradiction_margin": 76096
+    },
+    {
+      "case_id": "b19_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10018,
+      "bytes": 2123946,
+      "trace": 832,
+      "residue": -115,
+      "contradiction_margin": 884411
+    },
+    {
+      "case_id": "b19_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10036,
+      "bytes": 2052622,
+      "trace": 610,
+      "residue": -102,
+      "contradiction_margin": 695848
+    },
+    {
+      "case_id": "b28_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10043,
+      "bytes": 2061412,
+      "trace": 1130,
+      "residue": 10,
+      "contradiction_margin": 4440
+    },
+    {
+      "case_id": "b28_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10049,
+      "bytes": 2053662,
+      "trace": 702,
+      "residue": 121,
+      "contradiction_margin": 979543
+    },
+    {
+      "case_id": "b28_pair2",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10231,
+      "bytes": 2024693,
+      "trace": 698,
+      "residue": -15,
+      "contradiction_margin": 13679
+    },
+    {
+      "case_id": "b28_pair3",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10099,
+      "bytes": 2070457,
+      "trace": 672,
+      "residue": -79,
+      "contradiction_margin": 416803
+    },
+    {
+      "case_id": "b29_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10152,
+      "bytes": 2041650,
+      "trace": 852,
+      "residue": 54,
+      "contradiction_margin": 193668
+    },
+    {
+      "case_id": "b29_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10073,
+      "bytes": 1991536,
+      "trace": 582,
+      "residue": -53,
+      "contradiction_margin": 187039
+    },
+    {
+      "case_id": "b29_pair2",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10128,
+      "bytes": 1913797,
+      "trace": 812,
+      "residue": -71,
+      "contradiction_margin": 336123
+    },
+    {
+      "case_id": "b29_pair3",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10279,
+      "bytes": 2152341,
+      "trace": 854,
+      "residue": 97,
+      "contradiction_margin": 628695
+    },
+    {
+      "case_id": "b30_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10176,
+      "bytes": 2113116,
+      "trace": 714,
+      "residue": 29,
+      "contradiction_margin": 54919
+    },
+    {
+      "case_id": "b30_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10303,
+      "bytes": 2059411,
+      "trace": 690,
+      "residue": -28,
+      "contradiction_margin": 51148
+    },
+    {
+      "case_id": "b32_pair0",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 9883,
+      "bytes": 1961529,
+      "trace": 782,
+      "residue": -106,
+      "contradiction_margin": 751248
+    },
+    {
+      "case_id": "b32_pair1",
+      "prime": 269,
+      "steps": 8,
+      "coefficient_max_bits": 10009,
+      "bytes": 2031906,
+      "trace": 1342,
+      "residue": 11,
+      "contradiction_margin": 5423
+    }
+  ]
+}

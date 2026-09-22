@@ -1,0 +1,97 @@
+{
+  "schema": "candidate-signature-cover-v1",
+  "P": 16,
+  "values": [
+    1,
+    -1,
+    2,
+    -2,
+    3,
+    -3
+  ],
+  "value_costs": [
+    1,
+    3,
+    6,
+    10,
+    15,
+    21
+  ],
+  "raw_partition_count": 17,
+  "histograms": [
+    {
+      "counts": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "sigma": 0,
+      "DC_abs": 1,
+      "support": 2,
+      "raw_vectors": 1056,
+      "orbits": 32
+    },
+    {
+      "counts": [
+        1,
+        3,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 0,
+      "DC_abs": 1,
+      "support": 5,
+      "raw_vectors": 4746720,
+      "orbits": 143840
+    },
+    {
+      "counts": [
+        3,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "sigma": 0,
+      "DC_abs": 1,
+      "support": 5,
+      "raw_vectors": 4746720,
+      "orbits": 143840
+    },
+    {
+      "counts": [
+        4,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 0,
+      "DC_abs": 1,
+      "support": 8,
+      "raw_vectors": 971890920,
+      "orbits": 29451240
+    }
+  ],
+  "candidate_vector_count": 981385416,
+  "candidate_orbit_count": 29738952,
+  "realizable_signature_count": null,
+  "semantics": "NECESSARY-CONDITION COVER, NOT ASSERTED REALIZABLE",
+  "grammar": "Assign listed multiplicities to distinct shifts1..33; all remaining z=0.",
+  "constraints": [
+    "sum z(2z-1)=P",
+    "1+8sum z is an odd square",
+    "R=4z-1",
+    "lambda=d-17+z in [0,d]"
+  ],
+  "frozen_P4_excluded": false,
+  "orbit_representatives": null,
+  "nonmaterialization_reason": "STRUCTURAL SIZE GUARD; exact symbolic cover only"
+}

@@ -1,0 +1,315 @@
+[
+  {
+    "P": 3,
+    "partitions": 2,
+    "types": 1,
+    "candidates": 5456,
+    "orbits": 166,
+    "support": [
+      3
+    ],
+    "max_z": 1,
+    "explicit": true,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 5,
+    "partitions": 2,
+    "types": 1,
+    "candidates": 16368,
+    "orbits": 496,
+    "support": [
+      3
+    ],
+    "max_z": 1,
+    "explicit": true,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 8,
+    "partitions": 4,
+    "types": 1,
+    "candidates": 245520,
+    "orbits": 7440,
+    "support": [
+      4
+    ],
+    "max_z": 1,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 6,
+    "partitions": 4,
+    "types": 1,
+    "candidates": 1107568,
+    "orbits": 33566,
+    "support": [
+      6
+    ],
+    "max_z": 1,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 7,
+    "partitions": 4,
+    "types": 2,
+    "candidates": 1187736,
+    "orbits": 35992,
+    "support": [
+      2,
+      5
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 9,
+    "partitions": 6,
+    "types": 2,
+    "candidates": 2374416,
+    "orbits": 71952,
+    "support": [
+      2,
+      5
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 12,
+    "partitions": 10,
+    "types": 3,
+    "candidates": 22184096,
+    "orbits": 672252,
+    "support": [
+      3,
+      6
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 11,
+    "partitions": 7,
+    "types": 2,
+    "candidates": 90204048,
+    "orbits": 2733456,
+    "support": [
+      4,
+      7
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 13,
+    "partitions": 11,
+    "types": 3,
+    "candidates": 150176400,
+    "orbits": 4550800,
+    "support": [
+      4,
+      7
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 10,
+    "partitions": 7,
+    "types": 3,
+    "candidates": 204820968,
+    "orbits": 6206696,
+    "support": [
+      5,
+      8,
+      10
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 16,
+    "partitions": 17,
+    "types": 4,
+    "candidates": 981385416,
+    "orbits": 29738952,
+    "support": [
+      2,
+      5,
+      8
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 15,
+    "partitions": 15,
+    "types": 6,
+    "candidates": 4349910609,
+    "orbits": 131815531,
+    "support": [
+      1,
+      3,
+      6,
+      9,
+      15
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 17,
+    "partitions": 17,
+    "types": 4,
+    "candidates": 4959168456,
+    "orbits": 150277832,
+    "support": [
+      3,
+      6,
+      9
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 14,
+    "partitions": 11,
+    "types": 5,
+    "candidates": 8949830076,
+    "orbits": 271206972,
+    "support": [
+      4,
+      7,
+      9,
+      10,
+      12
+    ],
+    "max_z": 2,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 21,
+    "partitions": 32,
+    "types": 7,
+    "candidates": 96005513736,
+    "orbits": 2909258012,
+    "support": [
+      3,
+      5,
+      8,
+      11,
+      21
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 19,
+    "partitions": 24,
+    "types": 8,
+    "candidates": 99843075222,
+    "orbits": 3025547734,
+    "support": [
+      3,
+      5,
+      8,
+      11,
+      14,
+      17
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 24,
+    "partitions": 44,
+    "types": 8,
+    "candidates": 366959757120,
+    "orbits": 11119992760,
+    "support": [
+      4,
+      6,
+      9,
+      12
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 25,
+    "partitions": 48,
+    "types": 12,
+    "candidates": 1193862991464,
+    "orbits": 36177666408,
+    "support": [
+      2,
+      4,
+      5,
+      7,
+      10,
+      13,
+      20,
+      23
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 23,
+    "partitions": 36,
+    "types": 10,
+    "candidates": 1354172066280,
+    "orbits": 41035517160,
+    "support": [
+      4,
+      5,
+      7,
+      10,
+      13,
+      16,
+      19
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  },
+  {
+    "P": 22,
+    "partitions": 35,
+    "types": 14,
+    "candidates": 2289252663720,
+    "orbits": 69371292840,
+    "support": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14,
+      16
+    ],
+    "max_z": 3,
+    "explicit": false,
+    "expected_ideal_cases": null
+  }
+]

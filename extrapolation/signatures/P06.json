@@ -1,0 +1,52 @@
+{
+  "schema": "candidate-signature-cover-v1",
+  "P": 6,
+  "values": [
+    1,
+    -1,
+    2,
+    -2,
+    3,
+    -3
+  ],
+  "value_costs": [
+    1,
+    3,
+    6,
+    10,
+    15,
+    21
+  ],
+  "raw_partition_count": 4,
+  "histograms": [
+    {
+      "counts": [
+        6,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 6,
+      "raw_vectors": 1107568,
+      "orbits": 33566
+    }
+  ],
+  "candidate_vector_count": 1107568,
+  "candidate_orbit_count": 33566,
+  "realizable_signature_count": null,
+  "semantics": "NECESSARY-CONDITION COVER, NOT ASSERTED REALIZABLE",
+  "grammar": "Assign listed multiplicities to distinct shifts1..33; all remaining z=0.",
+  "constraints": [
+    "sum z(2z-1)=P",
+    "1+8sum z is an odd square",
+    "R=4z-1",
+    "lambda=d-17+z in [0,d]"
+  ],
+  "frozen_P4_excluded": false,
+  "orbit_representatives": null,
+  "nonmaterialization_reason": "STRUCTURAL SIZE GUARD; exact symbolic cover only"
+}

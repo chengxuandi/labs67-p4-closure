@@ -1,0 +1,247 @@
+{
+  "schema": "candidate-signature-cover-v1",
+  "P": 22,
+  "values": [
+    1,
+    -1,
+    2,
+    -2,
+    3,
+    -3
+  ],
+  "value_costs": [
+    1,
+    3,
+    6,
+    10,
+    15,
+    21
+  ],
+  "raw_partition_count": 35,
+  "histograms": [
+    {
+      "counts": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 3,
+      "raw_vectors": 32736,
+      "orbits": 992
+    },
+    {
+      "counts": [
+        1,
+        1,
+        3,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 5,
+      "raw_vectors": 4746720,
+      "orbits": 143840
+    },
+    {
+      "counts": [
+        4,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 7,
+      "raw_vectors": 149521680,
+      "orbits": 4530960
+    },
+    {
+      "counts": [
+        4,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 6,
+      "raw_vectors": 33227040,
+      "orbits": 1006880
+    },
+    {
+      "counts": [
+        4,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 8,
+      "raw_vectors": 5831345520,
+      "orbits": 176707440
+    },
+    {
+      "counts": [
+        6,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 8,
+      "raw_vectors": 777512736,
+      "orbits": 23560992
+    },
+    {
+      "counts": [
+        7,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 8,
+      "raw_vectors": 111073248,
+      "orbits": 3365856
+    },
+    {
+      "counts": [
+        7,
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 10,
+      "raw_vectors": 33321974400,
+      "orbits": 1009756800
+    },
+    {
+      "counts": [
+        7,
+        3,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 11,
+      "raw_vectors": 255468470400,
+      "orbits": 7741468800
+    },
+    {
+      "counts": [
+        9,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 11,
+      "raw_vectors": 21289039200,
+      "orbits": 645122400
+    },
+    {
+      "counts": [
+        10,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 13,
+      "raw_vectors": 491776805520,
+      "orbits": 14902327440
+    },
+    {
+      "counts": [
+        10,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 14,
+      "raw_vectors": 819628009200,
+      "orbits": 24837212400
+    },
+    {
+      "counts": [
+        12,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 13,
+      "raw_vectors": 7451163720,
+      "orbits": 225792840
+    },
+    {
+      "counts": [
+        13,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 16,
+      "raw_vectors": 653409741600,
+      "orbits": 19800295200
+    }
+  ],
+  "candidate_vector_count": 2289252663720,
+  "candidate_orbit_count": 69371292840,
+  "realizable_signature_count": null,
+  "semantics": "NECESSARY-CONDITION COVER, NOT ASSERTED REALIZABLE",
+  "grammar": "Assign listed multiplicities to distinct shifts1..33; all remaining z=0.",
+  "constraints": [
+    "sum z(2z-1)=P",
+    "1+8sum z is an odd square",
+    "R=4z-1",
+    "lambda=d-17+z in [0,d]"
+  ],
+  "frozen_P4_excluded": false,
+  "orbit_representatives": null,
+  "nonmaterialization_reason": "STRUCTURAL SIZE GUARD; exact symbolic cover only"
+}

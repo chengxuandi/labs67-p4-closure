@@ -1,0 +1,112 @@
+{
+  "schema": "candidate-signature-cover-v1",
+  "P": 14,
+  "values": [
+    1,
+    -1,
+    2,
+    -2,
+    3,
+    -3
+  ],
+  "value_costs": [
+    1,
+    3,
+    6,
+    10,
+    15,
+    21
+  ],
+  "raw_partition_count": 11,
+  "histograms": [
+    {
+      "counts": [
+        2,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 4,
+      "raw_vectors": 245520,
+      "orbits": 7440
+    },
+    {
+      "counts": [
+        5,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 7,
+      "raw_vectors": 179426016,
+      "orbits": 5437152
+    },
+    {
+      "counts": [
+        8,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 9,
+      "raw_vectors": 347103900,
+      "orbits": 10518300
+    },
+    {
+      "counts": [
+        8,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 10,
+      "raw_vectors": 4165246800,
+      "orbits": 126219600
+    },
+    {
+      "counts": [
+        11,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 12,
+      "raw_vectors": 4257807840,
+      "orbits": 129024480
+    }
+  ],
+  "candidate_vector_count": 8949830076,
+  "candidate_orbit_count": 271206972,
+  "realizable_signature_count": null,
+  "semantics": "NECESSARY-CONDITION COVER, NOT ASSERTED REALIZABLE",
+  "grammar": "Assign listed multiplicities to distinct shifts1..33; all remaining z=0.",
+  "constraints": [
+    "sum z(2z-1)=P",
+    "1+8sum z is an odd square",
+    "R=4z-1",
+    "lambda=d-17+z in [0,d]"
+  ],
+  "frozen_P4_excluded": false,
+  "orbit_representatives": null,
+  "nonmaterialization_reason": "STRUCTURAL SIZE GUARD; exact symbolic cover only"
+}

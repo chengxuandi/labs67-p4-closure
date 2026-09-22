@@ -1,0 +1,172 @@
+{
+  "schema": "candidate-signature-cover-v1",
+  "P": 18,
+  "values": [
+    1,
+    -1,
+    2,
+    -2,
+    3,
+    -3
+  ],
+  "value_costs": [
+    1,
+    3,
+    6,
+    10,
+    15,
+    21
+  ],
+  "raw_partition_count": 22,
+  "histograms": [
+    {
+      "counts": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 3,
+      "raw_vectors": 5456,
+      "orbits": 166
+    },
+    {
+      "counts": [
+        3,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 4,
+      "raw_vectors": 163680,
+      "orbits": 4960
+    },
+    {
+      "counts": [
+        3,
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 6,
+      "raw_vectors": 66454080,
+      "orbits": 2013760
+    },
+    {
+      "counts": [
+        6,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 8,
+      "raw_vectors": 388756368,
+      "orbits": 11780496
+    },
+    {
+      "counts": [
+        6,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 9,
+      "raw_vectors": 9718909200,
+      "orbits": 294512400
+    },
+    {
+      "counts": [
+        8,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 9,
+      "raw_vectors": 347103900,
+      "orbits": 10518300
+    },
+    {
+      "counts": [
+        9,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 11,
+      "raw_vectors": 21289039200,
+      "orbits": 645122400
+    },
+    {
+      "counts": [
+        9,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 6,
+      "DC_abs": 7,
+      "support": 12,
+      "raw_vectors": 78059810400,
+      "orbits": 2365448880
+    },
+    {
+      "counts": [
+        12,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sigma": 10,
+      "DC_abs": 9,
+      "support": 14,
+      "raw_vectors": 74511637200,
+      "orbits": 2257928400
+    }
+  ],
+  "candidate_vector_count": 184381879484,
+  "candidate_orbit_count": 5587329762,
+  "realizable_signature_count": null,
+  "semantics": "NECESSARY-CONDITION COVER, NOT ASSERTED REALIZABLE",
+  "grammar": "Assign listed multiplicities to distinct shifts1..33; all remaining z=0.",
+  "constraints": [
+    "sum z(2z-1)=P",
+    "1+8sum z is an odd square",
+    "R=4z-1",
+    "lambda=d-17+z in [0,d]"
+  ],
+  "frozen_P4_excluded": false,
+  "orbit_representatives": null,
+  "nonmaterialization_reason": "STRUCTURAL SIZE GUARD; exact symbolic cover only"
+}
